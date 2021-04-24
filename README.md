@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OlenaKuda
-- 👀 I’m interested in Clean Code, DDD, TDD
+- 👀 I’m interested in Clean Code and Android
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on other github content 
 - 📫 How to reach me https://olenakuda.github.io
