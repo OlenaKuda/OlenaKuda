@@ -2,7 +2,7 @@
 - 👀 I’m interested in Clean Code and Android
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on other github content 
-- 📫 How to reach me https://olenakuda.github.io
+- 📫 How to reach me elenakuda@gmail.com
 
 <!---
 OlenaKuda/OlenaKuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
