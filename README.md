@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlenaKuda
 - 👀 I’m interested in Clean Code
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Spring Reactive 
 - 💞️ I’m looking to collaborate on other github content 
 - 📫 How to reach me elenakuda@gmail.com
 
